@@ -1,6 +1,7 @@
 <?php
 
-use Atk4\Core\TranslatableTrait;
+declare(strict_types=1);
+
 use Atk4\Login\Form;
 use Atk4\Login\Model\User;
 use Atk4\Ui\App;

@@ -1,0 +1,6 @@
+[submodule "atk4/ui"]
+	path = atk4/ui
+	url = https://github.com/acicovic/atk4-ui.git
+[submodule "atk4/login"]
+	path = atk4/login
+	url = https://github.com/acicovic/atk4-login.git

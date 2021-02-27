@@ -19,4 +19,4 @@ All submodules (currently `Atk4\Ui` and `Atk4\Login`) are located within the `at
 2. Pull the submodules (watching the video should give you a guideline)
 3. Run `composer update` to download dependencies in vendor folder and setup autoloading
 
-If anyone wants to post a PR outlining the installation process in more detail, feel free to do so. Submodule behavior should also be taking into account when contributing.
+If anyone wants to post a PR outlining the installation process in more detail, feel free to do so. Submodule behavior should also be taken into account when contributing.
